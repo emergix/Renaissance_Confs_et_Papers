@@ -20,3 +20,8 @@
 
 [Risk_Article_2_new](./pdf/Risk_Article_2_new.pdf)
 
+[Cumulants](./pdf/Cumulants.pdf)
+
+[Mapping](./pdf/Mapping.pdf)
+
+[general_hedge](./pdf/general_hedge.pdf)
