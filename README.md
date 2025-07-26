@@ -1,4 +1,4 @@
-# Renaissance_Confs_et_Papers
+## Renaissance_Confs_et_Papers
 
 Concerences:
 
@@ -7,6 +7,8 @@ Concerences:
 [Vienne97](./pdf/Vienne97.pdf)
 
 [Prague98](./pdf/Prague98.pdf)
+
+## Papers
 
 [LiquidityRisk1](./pdf/LiquidityRisk1.pdf)
 
