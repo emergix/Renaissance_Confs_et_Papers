@@ -1,6 +1,4 @@
-## Renaissance_Confs_et_Papers
-
-Concerences:
+## Concerences:
 
 [MiamiR97](./pdf/MiamiR97.pdf)
 
@@ -8,7 +6,7 @@ Concerences:
 
 [Prague98](./pdf/Prague98.pdf)
 
-## Papers
+## Papers:
 
 [LiquidityRisk1](./pdf/LiquidityRisk1.pdf)
 
