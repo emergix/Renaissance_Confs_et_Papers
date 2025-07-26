@@ -18,4 +18,5 @@
 
 [Pearson_Algebra](./pdf/Pearson_Algebra.pdf)
 
+[Risk_Article_2_new](./pdf/Risk_Article_2_new.pdf)
 
